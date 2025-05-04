@@ -2,7 +2,7 @@
 <p align="center">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100000&center=true&vCenter=true&width=100&lines=Hi%2C+I'm" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=true&width=260&lines=Prabesh+Dahal!;Full+Stack+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=true&width=260&lines=Prajwal+Chaudhary!;Full+Stack+Developer!" alt="Typing SVG" />
   </span>
 </p>
 
@@ -89,12 +89,12 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabesh001&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwalchyy&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh001&layout=compact&theme=tokyonight)](https://github.com/Prabesh001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalchyy&layout=compact&theme=tokyonight)](https://github.com/Prajwalchyy)
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabesh001&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalchyy&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Prabesh001&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Prajwalchyy&style=flat-square)
