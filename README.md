@@ -10,7 +10,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 
 ## 💼 What I Do
 
-- 🎯 Speciality: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- 🎯 Speciality: ![MySql](https://img.shields.io/badge/MySql-47A248?style=flat&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232F?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)<br/> <br/>
