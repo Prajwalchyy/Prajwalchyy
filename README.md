@@ -24,14 +24,10 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 <table> 
   <tr> 
   <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br><sub><b>JavaScript</b></sub> 
-  </td> 
-   <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /><br><sub><b>TypeScript</b></sub> 
-   </td> 
+  </td>  
   <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>
   <sub><b>React</b></sub> 
   </td>
-   <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" /><br><sub><b>Next.js</b></sub> 
-   </td> 
    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" /><br><sub><b>Tailwind</b></sub> 
    </td>
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mui" alt="MUI" width="65" height="65" /><br><sub><b>MUI</b></sub> 
@@ -63,16 +59,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 </td> 
 </tr> 
 </table>
-<table> 
-<tr>
- <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="65" />
-<br><sub><b>React Native</b></sub> </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind" width="65" />
-<sub><b>NativeWind</b></sub>
-
-</td> 
-</tr> 
+<table>  
 </table>
 </div>
 
